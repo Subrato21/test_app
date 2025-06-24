@@ -94,3 +94,4 @@ flutter:
 
 
 > Built with using Flutter by [Subrato]
+Delete README.md to resolve merge conflict
